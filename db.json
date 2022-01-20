@@ -2,24 +2,54 @@
   "tokens": [
   {
     "id": 0,
-    "description": "My NFT",
+    "description": "My First NFT",
     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
     "image": "https://memegenerator.net/img/instances/28232473.jpg",
-    "name": "My NFT 0"
+    "name": "My NFT 0",
+    "attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Starfish"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }
+      ]
   },
   {
     "id": 1,
     "description": "My NFT",
     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
     "image": "https://memegenerator.net/img/instances/61808061.jpg",
-    "name": "My NFT 1"
+    "name": "My NFT 1",
+     "attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Starfish"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }
+      ]
   },
   {
     "id": 2,
     "description": "My NFT",
     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 2"
+    "name": "My NFT 2",
+     "attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Starfish"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }
+      ]
   }
 ]
 }
